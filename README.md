@@ -1,6 +1,7 @@
 Steps to Release apk using GitHub Actions
 
 STEP 1:- Create Repository
+
  a. Login to your Github account
  b. In the upper-right corner of any page, use the drop-down 
  
@@ -12,6 +13,7 @@ STEP 1:- Create Repository
  
 
 STEP 2:- Pull Flutter code from your local machine
+
 a.	Open Git Bash.
 b.	Change the current working directory to your local project.
 c.	Initialize the local directory as a Git repository.
@@ -43,6 +45,7 @@ d.	Check the YAML script and Click the “Commit” button.
 
 
 STEP 4:- View Workflow Activity
+
 a.	Once your workflow has started running, you can see a visualization graph of the run's progress and view each step's activity on GitHub.
 b.	On GitHub.com, navigate to the main page of the repository.
 c.	Under your repository name, click Actions
@@ -54,9 +57,8 @@ f.	View the results of each step.
 g.	Find APK
   
  
-
-
   Where to find the apk?
+  
 1.	 Go to your Repository
 2.	Click the Actions tab
 3.	Select the desired workflow
