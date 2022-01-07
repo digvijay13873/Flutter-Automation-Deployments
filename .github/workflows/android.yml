@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - Devlopment
 
 name: Android App
 jobs:
